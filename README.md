@@ -15,7 +15,7 @@ A collection of short C++ programs demonstrating core OOP concepts.
 🚀 Quick Start
 1. Clone the repo:  
    bash  
-   git clone https://github.com/your-username/repo-name.git  
+   git clone https://github.com/Swaiba-Nazakat/Cpp-Assignments.git  
      
 2. Compile & run any program:  
    bash  

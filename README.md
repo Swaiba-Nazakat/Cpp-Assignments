@@ -3,11 +3,14 @@ A collection of short C++ programs demonstrating core OOP concepts.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue)  
 
 📂 Topics Covered  
-- Classes & Objects  
+- Classes & Objects
+- Constructors and Destructors
 - Inheritance  
 - Polymorphism  
-- Encapsulation  
-- Operator Overloading  
+- Encapsulation and Abstraction
+- Static Members
+- Operator Overloading
+- Templates
 
 🚀 Quick Start
 1. Clone the repo:  
